@@ -1,4 +1,4 @@
-👋 Hi, I’m @Carzec \n
+👋 Hi, I’m @Carzec
 👀 I’m interested in electronics and using them to make cool things.
 🌱 I’m currently at Washington and Lee University, studying engineering with computer science
 ⚡ Fun fact: I've made some cool things including:
